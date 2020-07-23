@@ -18,17 +18,13 @@ export const Content = styled.div`
     max-width:700px;
 
     form{
-        margin:80px 0;
+        margin:50px 0;
         width:340px;
         text-align:center;
 
         h1{
             margin-bottom:24px;
         }
-        
-   
-
-
         a{
             color:#F4EDE8;
             display:block;
